@@ -25,7 +25,7 @@ export const Navigation = (props) => {
           className='collapse navbar-collapse'
           id='bs-example-navbar-collapse-1'
         >
-          <img src="img/logo.png" width="17%" height="auto"></img>
+          <img src="img/LOGO.png" width="17%" height="auto"></img>
           <ul className='nav navbar-nav navbar-right'>
             <li>
               <a href='#features' className='page-scroll'>
